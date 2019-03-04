@@ -259,3 +259,4 @@
 /robots.txt.dist
 /images/*
 /media/*
+/components/com_rseventspro/helpers/Google/IO/cacerts.pem
